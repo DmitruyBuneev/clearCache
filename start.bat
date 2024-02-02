@@ -1,0 +1,1 @@
+"C:\Users\bunnyovh\.jdks\azul-16.0.2\bin\java.exe" -jar clearCache.jar
